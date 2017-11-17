@@ -55,14 +55,6 @@ ETC trading is now live on all the major crypto-exchanges. [Bitfinex](http://blo
 Please help us spread the word about Ethereum Classic around Ethereum community and beyond! You can use this [logo set](https://github.com/ethereumclassic/README/raw/master/etc_logo_set.zip), or create something better still. Start websites. Write blog posts. Tweet. Let people know about Ethereum Classic and its value proposition.
 
 - - -
-**Donate**
-
-ETC: 0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9
-
-ETH: 0xda99c6385e7ec0a7b4031c393dac01b600341fc3
-
-BTC: 1953UK8Y849SZqfDEnn3Zu4AM98hwWk3Kw
-- - -
 Feeling like something needs to be done, and no one is doing it? [Take the initiative](https://www.reddit.com/r/EthereumClassic/comments/4vaqe7/getting_things_done_in_a_decentralized_way/)! Ask around our [Slack channel](http://ethereumclassic.herokuapp.com/) if there is something urgent to be done.
 - - -
 **Thanks for your support, and let's move our chain along! Stay classy, everyone!** ;)
